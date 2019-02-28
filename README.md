@@ -1,31 +1,36 @@
 # JS-Jest
 
-about Jest
+> about Jest  
+> 用npm test检测效果  
+> 算法的本质是找规律
 
-用npm test检测效果
+## 数据结构
+
+- 栈
+- 队列
+- 链表
+- 矩阵
+- 二叉树
+- 堆
 
 ### 字符串
-计算二进制子串
-> 知识点
-> 
-> String.prototype.slice
-> 
-> String.prototype.match
-> 
-> String.prototype.repeat
-> 
-> String.prototype.push
-> 
+
+- 反转字符串中的单词
+- 计算二进制子串
+  
+> 知识点  
+> String.prototype.slice  
+> String.prototype.match  
+> String.prototype.repeat  
+> String.prototype.push  
 > RegExp
 
 ### 数组
-电话号码的组合（公式运算）
 
-卡牌分组（归类运算）
-
-种花问题（筛选运算）
-
-格雷编码（二进制运算）
+- 电话号码的组合（公式运算）
+- 卡牌分组（归类运算）
+- 种花问题（筛选运算）
+- 格雷编码（二进制运算）
 
 ### 正则
 
@@ -33,6 +38,37 @@ about Jest
 
 ### 递归
 
-### 栈
+### 栈(堆栈)
+
+- 棒球比赛
+- 最大矩形
+
+> 运算受限的线性表，  
+> 遵循先进后出原则，  
+> 像餐厅中堆盘子一样  
+> push:扔数据  
+> pop:取数据
 
 ### 队列
+
+- 设计循环队列（理论）
+- 任务调度器（应用）
+  
+> 运算受限的线性表  
+> 遵循先进先出(FIFO:first in first out)
+
+### 链表
+
+- 如何手动创建一个链表的数据结构
+- 了解链表如何排序
+- 如何检测链表是否是闭环的
+
+- 排序链表
+- 环形链表
+  
+> 单链表只会暴露一个head头指针
+
+### 矩阵
+
+- 螺旋矩阵
+- 旋转图像
